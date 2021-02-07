@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Counting Daffodils '
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
