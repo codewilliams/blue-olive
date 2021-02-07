@@ -1,6 +1,6 @@
 ---
 title: Counting Daffodils
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 template: page
 ---
