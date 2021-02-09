@@ -1,6 +1,6 @@
 ---
 title: My 10 cents
-subtitle: lorem-ipsum
+subtitle: For what its worth
 excerpt: lorem-ipsum
 template: page
 ---
