@@ -4,9 +4,9 @@ subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
+## My God this is easy.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+How much longer are we going to put up with WordPress when in just one year we now have taken Jam to the editor phase?
 
-- Lorem ipsum
-- dolor sit amet
+*   Learn how to make my own templates
+*   I wonder how this editor would fare on other Jam technologies (if that's what it is called)
